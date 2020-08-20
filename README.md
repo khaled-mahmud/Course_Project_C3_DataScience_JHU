@@ -11,7 +11,7 @@ In more details, the following tasks are implemented in this project:
 * Performing data manipulation.
 * Generating tidy dataset for later data analysis.
 
-There is a [CodeBook.md](https://github.com/khaled-mahmud/Course_Project_C3_DataScience_JHU/CodeBook.md) file - a code book in the root directory that describes the variables, the data, and any transformations that was performed to clean up the data
+There is a [CodeBook.md](https://github.com/khaled-mahmud/Course_Project_C3_DataScience_JHU//blob/master/CodeBook.md) file - a code book in the root directory that describes the variables, the data, and any transformations that was performed to clean up the data
 
 ## Data Details
 The datasets describes Human Activity Recognition Using Smartphones. Specifically these datas are accelerometer and gyroscope readings from Samsung Galaxy S smartphone
