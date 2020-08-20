@@ -124,4 +124,4 @@ contains test data of 9/30 volunteer test subjects being observed <br/>
 * `tidy_data` <- (`180 x 68`) data frame is created by sumarizing `clean_data` taking the means of each variable for each activity and each subject, after groupped by subject and activity , resulting from `30` __subjects__ and `6` __activities__.
 * Export `tidy_data` into `tidy_data.txt` file.
 
-## See the [README.md](https://github.com/khaled-mahmud/Course_Project_C3_DataScience_JHU/README.md) for implementation details.
+## See the [README.md](https://github.com/khaled-mahmud/Course_Project_C3_DataScience_JHU/blob/master/README.md) for implementation details.
