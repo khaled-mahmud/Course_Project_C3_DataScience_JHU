@@ -20,7 +20,7 @@ The datasets describes Human Activity Recognition Using Smartphones. Specificall
 * Dataset can be downloaded from here [Download Dataset](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
 
 ## Project Setup
-* Get the project from the repository url: [https://github.com/khaled-mahmud/Course_Project_C3_DataScience_JHU.git]()
+* Get the project from the repository url: `https://github.com/khaled-mahmud/Course_Project_C3_DataScience_JHU.git`
 * In __R Studio__ set the working directory:
 
         setwd("<DIRECTORY PATH>")
